@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "514346852169",
+    "firebase_url": "https://paksolarmarkt-default-rtdb.firebaseio.com",
+    "project_id": "paksolarmarkt",
+    "storage_bucket": "paksolarmarkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514346852169:android:65a3b6456950722abd4498",
+        "android_client_info": {
+          "package_name": "com.admin.psmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514346852169-m320ja4avoub0eslrnm4u72uc9qmeq7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhHLNaalJFiC_VvpVPRpZp2oOjjE5WKrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514346852169-m320ja4avoub0eslrnm4u72uc9qmeq7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514346852169-9h8fge475mt6n3vt92o637ll6cs676uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514346852169:android:2e0b11870ddddbacbd4498",
+        "android_client_info": {
+          "package_name": "com.example.doctor_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514346852169-m320ja4avoub0eslrnm4u72uc9qmeq7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhHLNaalJFiC_VvpVPRpZp2oOjjE5WKrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514346852169-m320ja4avoub0eslrnm4u72uc9qmeq7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514346852169-9h8fge475mt6n3vt92o637ll6cs676uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514346852169:android:22725c240417f3b4bd4498",
+        "android_client_info": {
+          "package_name": "com.psmapp.opalaxis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514346852169-14jb7viomd9f09h2lj7j34lup5691ogi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psmapp.opalaxis",
+            "certificate_hash": "f8e35ea87c9b8b6d72419fd9648f7158df53e14a"
+          }
+        },
+        {
+          "client_id": "514346852169-c3hgejmg5qjvgvsk1su682nk9pjqp2po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psmapp.opalaxis",
+            "certificate_hash": "4db9cc172c9f3d2fa9fff311820fc0c82096a4c6"
+          }
+        },
+        {
+          "client_id": "514346852169-gq7k2jg3i5k0t5qkt4109diue9lkqb1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psmapp.opalaxis",
+            "certificate_hash": "b0355bc4c8160c6ca65c3d7029155fa63d8000d8"
+          }
+        },
+        {
+          "client_id": "514346852169-ir70inf4ld226rl97dkvihce8a1aroco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psmapp.opalaxis",
+            "certificate_hash": "d5b520fa21606ed48600973693f26abb4d9b4543"
+          }
+        },
+        {
+          "client_id": "514346852169-m320ja4avoub0eslrnm4u72uc9qmeq7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhHLNaalJFiC_VvpVPRpZp2oOjjE5WKrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514346852169-m320ja4avoub0eslrnm4u72uc9qmeq7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514346852169-9h8fge475mt6n3vt92o637ll6cs676uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514346852169:android:288bd1d11ed51a97bd4498",
+        "android_client_info": {
+          "package_name": "com.psmofficials.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514346852169-n4aiua3p5if0amsh67lrctfb0atthgum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psmofficials.app",
+            "certificate_hash": "1b0421e781c2de449352890945c92309ce22a843"
+          }
+        },
+        {
+          "client_id": "514346852169-oolmifbr2o0v7oqji76q2lu8gcg893hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psmofficials.app",
+            "certificate_hash": "d5b5bfb3db2f7e314fda81bcce63d8109b8fc03f"
+          }
+        },
+        {
+          "client_id": "514346852169-m320ja4avoub0eslrnm4u72uc9qmeq7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhHLNaalJFiC_VvpVPRpZp2oOjjE5WKrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514346852169-m320ja4avoub0eslrnm4u72uc9qmeq7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514346852169-9h8fge475mt6n3vt92o637ll6cs676uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
